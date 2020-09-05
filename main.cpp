@@ -8,7 +8,7 @@
 /*
 ////////////////////
 Nev: Kamondy Tivadar
-Neptun kód: ZXCJX6
+Neptun kÃ³d: XXXXXX
 ////////////////////
 -----------------------------------------------
 ***** Repter menedzseleset segito program *****
