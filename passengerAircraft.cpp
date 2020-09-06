@@ -3,7 +3,7 @@
 
 //utasszalito gep konstruktora
 passengerAircraft::passengerAircraft(const std::string company, const int condition, const float speed, const float noise, const int capacity, const int current_passenger) : aircraft(company, condition, speed, noise) {
-	if (current_passenger > capacity) //if the current passangers is greater then capacity
+	if (current_passenger > capacity) //ha a jelenlegi utasszam nagyobb mint a kapacitas
 		throw std::invalid_argument("Az utasok szama nem lehet nagyobb mint a kapacitas!"); //ezert itt eldobunk egy exception-t
 	this->capacity = capacity;
 	this->current_passenger = current_passenger;
