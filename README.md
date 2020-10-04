@@ -1,5 +1,5 @@
 # Flight ManagementSystem OOP
-## by Tivadar Kamondy
+## Developed by Tivadar Kamondy
 
 -8 classes (+enum class) - simple flight management system implementation in OOP C++
 
